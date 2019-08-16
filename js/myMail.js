@@ -1,6 +1,6 @@
 "use strict";
 
-let mail1 = "elve";
+var mail1 = "elve";
 mail1 += "din";
 mail1 += ".";
 mail1 += "caj";
@@ -15,7 +15,4 @@ function setmail() {
     document.getElementById("mail1").innerHTML = '<a href="' + "mai" + 'lto' + ":" + mail1 + '" target="_blank">' + mail1 + "</a>";
 }
 
-
-window.onload = function () {
-    document.getElementById("mailaktivieren").onclick = setmail;
-}
+document.getElementById("mailaktivieren").onclick = setmail;
