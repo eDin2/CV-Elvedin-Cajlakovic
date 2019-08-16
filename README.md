@@ -1,5 +1,5 @@
 Für dieses CV wurde ein Templete von Bootsrap benuzt welcher nachträglich von mir überarbeitet wurde.
-Das ursprung Template siehe unten genauere beschreibung!
+Das ursprüngliche Template wurde unten genauer beschreibung!
 
 
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
