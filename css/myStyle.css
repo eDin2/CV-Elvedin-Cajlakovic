@@ -1,7 +1,4 @@
-/*! mit diesem Style wird das DropDown menü mit dem Hover ausgeklapt */
-.dropdown:hover>.dropdown-menu {
-    display: block;
-}
+
 
 
 /*! Jumbotron betrift die Datenschutzerklärung */
