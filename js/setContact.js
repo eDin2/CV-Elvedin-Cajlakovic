@@ -2,6 +2,7 @@
 
 var numb = "+";
 numb += "43";
+numb += "(0)"
 numb += "650";
 numb += "677";
 numb += "71";
@@ -20,7 +21,7 @@ mail2 += "om";
 
 
 function setNumb() {
-    document.getElementById("numb").innerHTML = '<a href="' + "tel:" + '+' + '43' + '650' + '677' + '71' + '87' + numb + '" target="_blank">' + numb + "</a>";
+    document.getElementById("numb").innerHTML = '<a href="' + "tel:" + '+' + '43' + '(0)650' + '677' + '71' + '87' + numb + '" target="_blank">' + numb + "</a>";
 }
 
 function setmail2() {
