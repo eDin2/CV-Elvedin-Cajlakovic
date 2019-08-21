@@ -49,6 +49,7 @@ h6 {
 
 
 .page-section {
+  height: auto !important;
   padding: auto;
   overflow: hidden;
   min-height: 100%;
