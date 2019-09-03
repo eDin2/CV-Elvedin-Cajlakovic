@@ -49,6 +49,7 @@ h6 {
 
 
 .page-section {
+  height: auto !important;
   padding: auto;
   overflow: hidden;
   min-height: 100%;
@@ -743,7 +744,7 @@ section#contact :-ms-input-placeholder {
 }
 
 .footer {
-  padding: 296px 0 0 0;
+  padding: 0;
   text-align: center;
 }
 
