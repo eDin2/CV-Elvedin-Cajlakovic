@@ -2,7 +2,7 @@
 
 var numb = "+";
 numb += "43";
-numb += "(0)"
+numb += " (0) ";
 numb += "650";
 numb += "677";
 numb += "71";
